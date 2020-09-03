@@ -1,0 +1,166 @@
+.aditya{
+  width:150px;
+  height:150px;
+  margin-left: 700px;
+}
+.first{
+text-align:center;
+font-family: cursive;
+color: red;
+
+font-size: 50px
+}
+.my{
+  text-align: center;
+  font-family:cursive;
+  color:red;
+  text-shadow:3px3pxred;
+  font-size: 50px
+}
+.web{
+  text-align: center;
+  font-family:cursive;
+  color:red;
+  text-shadow:3px3pxred;
+  font-size: 50px
+}
+body{
+background-color:lightgreen;
+}
+.green{
+  width:150px;
+  height:150px;
+  margin-left: 700px;
+}
+.inhead{
+font-family: cursive;
+margin-top: 50px;
+text-align: center;
+font-size:30px;
+background-color:green;
+margin-left:650px;
+margin-right:650px;
+font-size: 40px
+}
+.school{
+font-family: cursive;
+margin-top:50px;
+text-align: center;
+}
+.public{
+  font-family: cursive;
+  font-size: 30px;
+}
+.read{
+  font-family: cursive;
+  font-size: 30px;
+}
+.inheadone{
+  font-family: cursive;
+  margin-top: 50px;
+  text-align: center;
+  font-size:30px;
+  background-color:green;
+  margin-left:650px;
+  margin-right:650px;
+  font-size: 40px
+}
+.award{
+  width:150px;
+  height:150px;
+  margin-left: 700px;
+}
+.whitehat{
+text-align:start;
+font-size: 30px;
+font-family: cursive;
+margin-left: 60px;
+float: left;
+}
+.whitehat{  width:300px;
+  height: 400px;
+}
+.math{
+  text-align:end;
+font-size: 30px;
+  font-family: cursive;
+  margin-right: 60px;
+  float: right;
+}
+.math{
+ width:300px;
+ height: 400px;
+}
+.other{
+  text-align:end;
+font-size: 30px;
+  font-family: cursive;
+  margin-right: 60px;
+  float: right;
+  text-align: left;
+}
+.other{
+  width:400px;
+  height: 300px;
+  }
+.five{
+  text-align: center;
+  font-size:40px;
+  margin-top: 40px;
+  font-family: cursive;
+  font-size: 40px
+}
+.hobbies{
+  font-family: cursive;
+  margin-top: 50px;
+  text-align: center;
+  font-size:30px;
+  background-color:green;
+  margin-left:650px;
+  margin-right:650px;
+  font-size: 40px
+}
+.study{
+  width:150px;
+  height:150px;
+  margin-left: 700px;
+}
+.Hobbies{
+text-align: center;
+margin-top: 20px;
+font-family: cursive;
+font-size: 30px;
+}
+.play{
+  width:150px;
+  height:150px;
+  margin-left: 700px;
+}
+.buy{
+  width:150px;
+  height:150px;
+  margin-left: 700px;
+}
+.end{
+  font-family: cursive;
+  margin-top: 50px;
+  text-align: center;
+  font-size:30px;
+  background-color:green;
+  margin-left:600px;
+  margin-right:600px;
+  font-size: 40px
+}
+.com{
+  text-align: center;
+  margin-top: 20px;
+  font-family: cursive;
+  font-size: 30px;
+}
+.fo{
+  text-align: center;
+
+}
+a:hover{
+  color: red;
+}
